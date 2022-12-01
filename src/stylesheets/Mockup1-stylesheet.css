@@ -1,0 +1,12 @@
+.container-m1{
+    margin-top: 10%;
+    background-color: darkviolet;
+    max-width: 500px;
+    max-height: 480px;
+    padding-bottom: 50px;
+}
+
+.title{
+    color:white;
+    font-style: oblique;
+}
