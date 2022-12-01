@@ -7,6 +7,7 @@ import Mockup3 from "../Mockup3/Mockup3";
 import "../stylesheets/Mockup2-stylesheet.css"
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
+//Parte Luis
 
 function Mockup2() {
     const navigate = useNavigate();
