@@ -5,6 +5,7 @@ import { Button, Form, Container, Row, Col } from "react-bootstrap"
 import { RUTA_BACKEND } from "../conf";
 import { Alert } from "react-bootstrap";
 
+//Parte Luis
 
 function Mockup1() {
 
